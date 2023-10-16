@@ -19,5 +19,6 @@
 }
 
 .headerOption:hover {
-    color: black;
+    /* color: black; */
+    color: whitesmoke;
 }
